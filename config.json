@@ -1,0 +1,19 @@
+{
+ 	"token": "OTMxMjY1MzQ0MzEwNDg1MDEy.YeB6cA.yF15NEJ3Qu3FZqqv65lnJqSYKx8",
+ 	"sellix_auth": "WB5UPg13FxBXENtBA931pPgEWFUSjI6sTNavhv3RAau4k7rmaOoHwqSaKU23K4Xa",
+ 	"prefix": ".",
+ 	"admins": [
+ 	 	"753620188301230090", "320629755521138688"
+ 	],
+ 	"webhook_channels": {
+ 	 	"default": "885962010515374081",
+ 	 	"https://discord.com/api/webhooks/885962998487871529/kfPgBDjNH5hSzuEl9ILpmu_LZ_Sai7j_EkfT5HDkj4v6urJ1ltkSkACG4psrrpv4p_ax": "885962010515374081",
+ 	 	"feedback:received": "885962010515374081",
+ 	 	"order:paid": "885962010515374081"
+ 	},
+ 	"role_to_give": "885967023404900422",
+
+ 	"nicknames": {
+ 	 	"exampleProduct": "6abc74103id"
+ 	}
+}
